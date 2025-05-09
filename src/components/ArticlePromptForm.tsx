@@ -34,10 +34,11 @@ Write an article on [SPECIFIC TOPIC] that aims to be the most comprehensive, eng
     ◦ For technical topics, include well-commented code snippets that demonstrate key concepts.
     ◦ Provide examples in the most relevant programming language(s) for [SPECIFIC TOPIC].
     ◦ Explain each code snippet step-by-step, highlighting its purpose and real-world use case.
-6. Visual Aids (Use Sparingly and Purposefully):
+6. Visual Aids (Use Sparingly and Purposefully, Do Not use unnecessary type of visual only use those visuals which are suitable fo better explanations):
     ◦ Venn Diagram: Include a Venn diagram if [SPECIFIC TOPIC] involves comparing overlapping concepts (e.g., technologies, methodologies). Ensure it’s simple, labeled clearly, and accompanied by an explanation.
     ◦ Flow Chart: Create a flow chart to illustrate processes, workflows, or decision-making paths related to [SPECIFIC TOPIC]. Keep it clean and intuitive, with a brief description.
     ◦ Ensure visuals are high-quality, relevant, and enhance comprehension rather than clutter the article.
+    ◦ When trying to compare the [SPECIFIC TOPIC] with any rival or parallel option Use Tabular Format or Visuals.
 7. Examples and Real-Life Case Studies:
     ◦ Provide clear, practical examples for each major concept to show how it applies in practice.
     ◦ Include 1-2 real-life case studies or success stories (e.g., how a company/individual used [SPECIFIC TOPIC] to solve a problem or achieve a goal).
@@ -66,6 +67,9 @@ Write an article on [SPECIFIC TOPIC] that aims to be the most comprehensive, eng
 14. Length and Depth:
     ◦ Aim for a word count of 2,000–5,000 words, depending on the complexity of [SPECIFIC TOPIC], ensuring every section adds value without fluff.
     ◦ Balance depth with conciseness, prioritizing clarity and actionable insights.
+15. Code Language:
+    - Primarily Use Java
+    - But sometime if using any other language can explain [SPECIFIC TOPIC] better and is more suitable, You can choose any Language You Want.
 By thoughtfully integrating these elements, ensure the article is not a jumbled collection but a cohesive, engaging, and unparalleled resource that educates, entertains, and empowers readers to master [SPECIFIC TOPIC].
 `,
   'Engaging LinkedIn Post Prompt': `
