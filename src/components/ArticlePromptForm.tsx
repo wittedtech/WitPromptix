@@ -34,7 +34,7 @@ Write an article on [SPECIFIC TOPIC] that aims to be the most comprehensive, eng
     ◦ For technical topics, include well-commented code snippets that demonstrate key concepts.
     ◦ Provide examples in the most relevant programming language(s) for [SPECIFIC TOPIC].
     ◦ Explain each code snippet step-by-step, highlighting its purpose and real-world use case.
-6. Visual Aids (Use Sparingly and Purposefully, Do Not use unnecessary type of visual only use those visuals which are suitable fo better explanations):
+6. Visual Aids (Use Sparingly and Purposefully):
     ◦ Venn Diagram: Include a Venn diagram if [SPECIFIC TOPIC] involves comparing overlapping concepts (e.g., technologies, methodologies). Ensure it’s simple, labeled clearly, and accompanied by an explanation.
     ◦ Flow Chart: Create a flow chart to illustrate processes, workflows, or decision-making paths related to [SPECIFIC TOPIC]. Keep it clean and intuitive, with a brief description.
     ◦ Ensure visuals are high-quality, relevant, and enhance comprehension rather than clutter the article.
